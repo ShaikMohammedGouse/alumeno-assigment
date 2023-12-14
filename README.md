@@ -16,7 +16,7 @@ Once Create React App is installed, you can create a new React app by running:
 
 bash
 Copy code
-npx create-react-app my-react-app
+npx create-react-app alumeno-selling-course-list
 Replace my-react-app with your preferred project name.
 
 Navigate to the Project Directory:
