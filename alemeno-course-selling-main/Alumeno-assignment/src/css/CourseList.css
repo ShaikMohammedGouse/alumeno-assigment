@@ -1,0 +1,11 @@
+.course-list-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust as needed */
+  }
+  
+  .course-card {
+    width: calc(33.33% - 20px); /* Adjust width as per your design */
+    /* Other styling properties for your course card */
+  }
+  
